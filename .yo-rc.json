@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "eadate",
+    "packageName": "com.somoplay.eadate",
+    "packageFolder": "com/somoplay/eadate",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": true,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": false,
+    "rememberMeKey": "d4c67ecac86e863eae4d47a2ae15200f11f9c74b"
+  }
+}

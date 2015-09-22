@@ -1,0 +1,19 @@
+{
+    "relationships": [],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldValidateRules": []
+        },
+        {
+            "fieldId": 2,
+            "fieldName": "birthday",
+            "fieldType": "LocalDate"
+        }
+    ],
+    "changelogDate": "20150922214843",
+    "dto": "no",
+    "pagination": "no"
+}
